@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+  background-color: antiquewhite;
+}
+
+
+body {
+  width: 100vw;
+}
+
+.container {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0px 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+p {
+  margin:2rem;
+  text-align: baseline;
+}
+
+li {
+  margin:2rem;
+}
